@@ -1,3 +1,5 @@
+![OpenG7 Platform](docs/assets/openg7-agent-runtime.png)
+
 # OpenG7 Agent Runtime
 
 Controlled, observable and auditable execution environment for OpenG7 AI agents.
